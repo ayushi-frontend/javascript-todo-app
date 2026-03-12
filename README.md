@@ -25,7 +25,7 @@ This app helps users manage their daily tasks by allowing them to add and remove
 - 
 ## 📸 Screenshot
 
-![Todo App Screenshot](./Screenshot%202026-03-12%2011321.png)
+![Todo App Screenshot](./Screenshot%202026-03-12%20113213.png)
 ## 👩‍💻 Author
 
 Ayushi Chouhan  
