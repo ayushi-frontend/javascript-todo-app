@@ -22,7 +22,10 @@ This app helps users manage their daily tasks by allowing them to add and remove
 - Add task edit feature
 - Mark task as completed
 - Save tasks in LocalStorage
+- 
+## 📸 Screenshot
 
+![Todo App Screenshot](Screenshot 2026-03-12 11321.png)
 ## 👩‍💻 Author
 
 Ayushi Chouhan  
